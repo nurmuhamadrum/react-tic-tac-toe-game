@@ -37,7 +37,13 @@ Then, install all the packages that described in `package.json`.
 npm install
 ```
 
-After npm install get proccess is done then run your localhost. Wait till the Web application is running. Now, you can explore the Web Application and its features. Enjoy!
+Then, run the web application`.
+
+```
+npm run start
+```
+
+After npm run start get proccess is done then run your localhost. Wait till the Web application is running. Now, you can explore the Web Application and its features. Enjoy!
 ## Screenshots
 
 <div style={{ display: 'flex' }}>
