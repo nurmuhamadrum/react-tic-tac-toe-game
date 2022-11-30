@@ -1,4 +1,4 @@
-# React Tic Tac Toe Game
+# REACT TIC TAC TOE GAME
 
 ## Table of Contents
 
