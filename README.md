@@ -28,7 +28,7 @@ Make sure all of these are properly installed in your system.
 First, clone this repository into your system.
 
 ```
-git clone https://github.com/nurmuhamadrum/tic-tac-toe-game.git
+git clone https://github.com/nurmuhamadrum/react-tic-tac-toe-game.git
 ```
 
 Then, install all the packages that described in `package.json`.
